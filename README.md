@@ -1,16 +1,18 @@
 # Data Scientist
 
-### Education
-- M.S., Data Analytics and Computational Social Science | The University of Massachusetts (_Dec 2024_)								       		
-- M.S., Geographic Information Systems | Latin University of Panama (_Dece 2015_)	 			        		
-- B.S., Geomatics Engineering | Technological University of Panama (_Dec 2013_)
+### Technical Skills: Python, R, SQL, GIS, ArcGIS, Imagery Analysis
 
-### Work Experience
-- University of Massachusetts Amherst | Tutor Consultant (Sept 2024 – Current)
-- UMASS Transportation Center | Internship Research Assistant  (June 2024 – Current)
-- National Authority for Government Innovation, Panama | – Project Manager (Sept 2021 – Aug 2023)					     
-- Technological University of Panama | – Professor (May 2015 – Jul 2023)
-- Esri Panama | Project Engineer (Jun 2014 – Feb 2020)**
+## Education
+- M.S., Data Analytics and Computational Social Science - The University of Massachusetts (Dec 2024)
+- M.S., Geographic Information Systems - Latin University of Panama (Dece 2015)
+- B.S., Geomatics Engineering - Technological University of Panama (Dec 2013)
+
+## Work Experience
+- University of Massachusetts Amherst - Tutor Consultant (Sept 2024 – Current)
+- UMASS Transportation Center - Internship Research Assistant (June 2024 – Current)
+- National Authority for Government Innovation, Panama - – Project Manager (Sept 2021 – Aug 2023)
+- Technological University of Panama - – Professor (May 2015 – Jul 2023)
+- Esri Panama - Project Engineer (Jun 2014 – Feb 2020)
 
 
 ### Projects
