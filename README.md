@@ -6,18 +6,12 @@
 - B.S., Geomatics Engineering | Technological University of Panama (_Dec 2013_)
 
 ### Work Experience
-**University of Massachusetts Amherst, United States**
-- Tutor Consultant – MSc Data Analytics Program (Sept 2024 – Current)
-- Internship Research Assistant – UMASS Transportation Center (June 2024 – Current)
+- University of Massachusetts Amherst | Tutor Consultant (Sept 2024 – Current)
+- UMASS Transportation Center | Internship Research Assistant  (June 2024 – Current)
+- National Authority for Government Innovation, Panama | – Project Manager (Sept 2021 – Aug 2023)					     
+- Technological University of Panama | – Professor (May 2015 – Jul 2023)
+- Esri Panama | Project Engineer (Jun 2014 – Feb 2020)**
 
-**National Authority for Government Innovation, Panama – Coordinator of Plans and Programs (Sept 2021 – Aug 2023)**						     
-- Coordination, training, and database management in projects related to information sciences, innovation, and geospatial technologies.
-
-**Technological University of Panama, Panama – Professor (May 2015 – Jul 2023)**
-- Part-time professor in the subjects of Cartography, Introduction to GIS, and Special Topics to groups of Bachelor in Topography, Bachelor in Geomatics Engineering, and others. 
-
-**Esri Panama, Panama - Project Engineer (Jun 2014 – Feb 2020)**
-- Experienced analyst, developer, and trainer specializing in geospatial analysis. Professional services and training in GIS for public, private, and non-profit organizations.
 
 ### Projects
 ## Projects
