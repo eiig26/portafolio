@@ -1,7 +1,3 @@
-# Data Scientist
-
-### Technical Skills: Python, R, SQL, GIS, ArcGIS, Imagery Analysis
-
 ## Education
 - M.S., Data Analytics and Computational Social Science - The University of Massachusetts (Dec 2024)
 - M.S., Geographic Information Systems - Latin University of Panama (Dece 2015)
