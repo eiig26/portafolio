@@ -16,6 +16,7 @@ For more information, see [Resume](https://drive.google.com/file/d/19Yxv4q5yEca0
 - **Tools Used:** ArcGIS Pro, ArcGIS Notebooks, ArcPy, Python, Spatial Analysis, ArcGIS Online
 - **StoryMap:** [https://storymaps.arcgis.com/stories/6e4a083720b54f8b978e928c78c608c9](https://storymaps.arcgis.com/stories/6e4a083720b54f8b978e928c78c608c9)
 - Main Findings:
+  
 ![Sexcrimesmap](assets/img/hotspot_sexcrimes.jpg)
 
 ### From Web Scraping to Machine Learning: Understanding Panama City's Real Estate with Python.
