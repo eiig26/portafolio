@@ -9,6 +9,7 @@ For more information, see [Resume](https://drive.google.com/file/d/19Yxv4q5yEca0
 - **Tools Used:** R (Tidyverse, ggplot2, linear model)
 - **GitHub Repository:** [https://github.com/eiig26/housing_predictions_603](https://github.com/eiig26/housing_predictions_603)
 - Main Findings:
+  
 ![Predictors](assets/img/estimators_plot_v2.jpg)
 
 ### Analysis of Sexual Crime Trends in the Los Angeles: Spatio-Temporal perspective with GIS
@@ -24,4 +25,5 @@ For more information, see [Resume](https://drive.google.com/file/d/19Yxv4q5yEca0
 -	**Tools Used:** Python (BeautifulSoup, Pandas, Folium, Seaborn, Matplotlib, Scikit-learn)
 -	**GitHub Repository:** [https://github.com/eiig26/realestate_panamacity](https://github.com/eiig26/realestate_panamacity)
 - Main Findings:
+  
 ![Predictors](assets/img/model_python.png)
