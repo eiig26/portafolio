@@ -1,7 +1,7 @@
 ## Abstract
 With a strong foundation in geospatial sciences and advanced data analytics, this portfolio highlights my technical experience. My studies are a MSc. in Data Analytics and CSS, complementing my MSc. in Geographic Information Systems and my Bs. in Geomatics Engineering. My professional experience includes diverse roles such as a Project Engineer and a Project Manager working in Projects related to GIS and innovative solutions.  I have also contributed as a professor teaching GIS and Cartography courses.
 
-For more information, see [Resume](https://drive.google.com/file/d/19Yxv4q5yEca0VEZEWTHPy45aKVEE-RP-/view?usp=sharing)
+For more information, see [Resume](https://drive.google.com/file/d/195Osi9_khLA5QBt5cUesHaEt9bcvDIPN/view?usp=sharing)
 
 ## Projects
 
