@@ -9,7 +9,7 @@ For more information, see [Resume](https://drive.google.com/file/d/195Osi9_khLA5
 - **Objective:** Develop an efficient extraction and integration workflow for geospatial datasets, including LANDSAT imagery analysis to obtain derived indices (NDVI, SAVI, NBDI, MNDWI), SRTM elevation data, and land cover information. This dataset supported advanced correlation analysis with machine learning, focusing on environmental variables to urban planning and sustainability studies.
 - **Tools Used:** ArcGIS Pro, Spatial Analysis, Imagery Analysis, ArcPy, Python
 - **GitHub Repository:** [https://github.com/eiig26/extraction-imagery](https://github.com/eiig26/extraction-imagery)
-- Mainf Findings:
+- Main Findings:
  ![landsat](assets/img/extraction_landsat.jpg)
 
 ### From Data to Decisions: Understanding the Housing Prices determinants in Massachusetts
